@@ -104,15 +104,16 @@ button:hover
 {
     color: hsl(223, 47%, 23%);
 }        
-a 
+.price-edit
 {
     color: hsl(245, 75%, 52%);
     text-decoration-thickness: 1px;
     transition: 0.3s
 }       
-a:hover 
+.price-edit:hover 
 {
     color: hsl(224, 23%, 55%);
+    text-decoration: none; 
 }
 
 
