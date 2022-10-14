@@ -18,8 +18,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/duchessa01/order-summary-component)
-- Live Site URL: [Live Site](https://duchessa01.github.io/order-summary-component/)
+- Solution URL: [Code on GitHub](https://github.com/duchessa01/order-summary-card)
+- Live Site URL: [Live Site](https://duchessa01.github.io/order-summary-card/)
 
 ## Author
 
